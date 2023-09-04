@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer with a passion for creating modern and trendy cross-platform applications<br>I am just starting to lead my github, but everything is ahead!<br>Junior software engineer .NET c#<br>Skills:<br>Knowledge of C#, Java, C++<br>Basic knowledge of DBMS and SQL queries<br>Understanding of basic algorithms and data structures<br>Ability to work with OOP<br>Working with technologies .NET Core, PostgreSQL, SQl<br>Knowledge of HTML+CSS/JS/Node Js
+I am a software engineer with a passion for creating modern and trendy cross-platform applications<br>I am just starting to lead my github, but everything is ahead!<br>Software engineer .NET c#<br>Skills:<br>Knowledge of C#, Java, C++<br>Basic knowledge of DBMS and SQL queries<br>Understanding of basic algorithms and data structures<br>Ability to work with OOP<br>Working with technologies .NET Core, PostgreSQL, SQl<br>Knowledge of HTML+CSS/JS/Node Js
 
 
 ## 🌐 Socials:

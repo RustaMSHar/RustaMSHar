@@ -36,10 +36,13 @@
     <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
 </div>
 
- <h4>📊 GitHub Stats: </h4>
- #
-![](https://github-readme-stats.vercel.app/api?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RustaMSHar&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div id="githubStats">
+    <h4> 📊 GitHub Stats: </h4>
+    <img src='https://github-readme-stats.vercel.app/api?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false'><br/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=RustaMSHar&theme=tokyonight&hide_border=true'><br/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
+</div> 
+ 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

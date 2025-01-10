@@ -12,8 +12,15 @@
     </a>
 </div>
 
-# 💫 About Me:
-Software engineer .NET c#<br>Skills:<br>Knowledge of C#, Java, C++<br>Basic knowledge of DBMS and SQL queries<br>Understanding of basic algorithms and data structures<br>Ability to work with OOP<br>Working with technologies .NET Core, PostgreSQL, SQl<br>
+<div id='about'>
+    <h3> 📝 About me </h3>
+    <ul>
+        <li> Software engineer .NET c# </li>
+        <li> Knowledge of C#, Java, C++</li>
+        <li> Working with technologies .NET Core, PostgreSQL, SQl</li>
+    </ul>
+    <hr>
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

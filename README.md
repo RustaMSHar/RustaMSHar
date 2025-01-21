@@ -16,8 +16,8 @@
     <h4> 📝 About me </h4>
     <ul>
         <li> Software engineer .NET c# </li>
-        <li> C# .NET, Java, C++</li>
-        <li> Working with technologies .NET Core, PostgreSQL, SQl</li>
+        <li> C# , Java, C++</li>
+        <!--<li> Working with technologies .NET Core, PostgreSQL</li>-->
     </ul>
     <hr>
 </div>

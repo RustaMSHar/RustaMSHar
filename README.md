@@ -15,7 +15,7 @@
 <div id='about'>
     <h4> 📝 About me </h4>
     <ul>
-        <li> Software engineer .NET  </li>
+        <li> Software .NET Developer  </li>
         <!--<li> C# , Java, C++</li>-->
         <!--<li> Working with technologies .NET Core, PostgreSQL</li>-->
     </ul>

@@ -28,19 +28,6 @@
     <img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
     <img src='https://img.shields.io/badge/go-50b7e0?logo=go&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'>
-    <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'>
 </div>
-
-<div id="githubStats">
-    <h4> 📊 GitHub Stats: </h4>
-    <div align='center'>
-        <img src='https://github-readme-stats.vercel.app/api?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false'> </br>
-        <img src='https://github-readme-streak-stats.herokuapp.com/?user=RustaMSHar&theme=tokyonight&hide_border=true'><br/>
-        <!-- <img src='https://github-readme-streak-stats.herokuapp.com/?user=RustaMSHar&theme=tokyonight&hide_border=true'> -->
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RustaMSHar&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact'>
-    </div>
-</div> 
- 
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

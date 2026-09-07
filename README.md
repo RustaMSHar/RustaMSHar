@@ -4,9 +4,6 @@
     <a href='https://t.me/RustamShh' target='_blank'>
         <img src='https://img.shields.io/badge/Telegram-28A7E8?logo=telegram&logoColor=white&style=for-the-badge'>
     </a>
-    <a href='https://vk.com/rusharafutdinow' target='_blank'>
-        <img src='https://img.shields.io/badge/vk-0077FF?logo=vk&logoColor=white&style=for-the-badge'>
-    </a>
     <a href='www.linkedin.com/in/sharafudtinoofrustam' target='_blank'>
         <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge'>
     </a>
